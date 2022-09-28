@@ -1,4 +1,6 @@
 # ActivityTimeProject
+## Description
+```- ActivityTime is a "social" Web Application for sharing and managing personal and / or shared activities. Technologies used: Angular - NodeJS - Relational Database (MariaDB)```
 ## Installation
 ```- Use the command: https://github.com/0xAlexDev/ActivityTimeProject.git```
 ```- Import the database locally```
